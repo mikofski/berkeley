@@ -8,7 +8,8 @@ title: "About"
 
 # {{ site.name }} at the {{ site.chapter }}
 
-<p><b>Fall 2018 is here!</b> We now meet on <b>Mondays at 4pm in 190 Doe Library</b>.</p>
+<h2> The Data Analysis Tools Series has come to an end.</h2>
+<p> Thank you for your support and please click [here](closing-message.html) to read about our future plans.</p>
 
 <ul class="listing">
 <li>
